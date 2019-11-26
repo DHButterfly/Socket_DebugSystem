@@ -1,0 +1,11 @@
+F:\Graduation Project\Screen_Test\Screen_Test\obj\Debug\Screen_Test.csprojAssemblyReference.cache
+F:\Graduation Project\Screen_Test\Screen_Test\obj\Debug\Screen_Test.Form1.resources
+F:\Graduation Project\Screen_Test\Screen_Test\obj\Debug\Screen_Test.Properties.Resources.resources
+F:\Graduation Project\Screen_Test\Screen_Test\obj\Debug\Screen_Test.csproj.GenerateResource.cache
+F:\Graduation Project\Screen_Test\Screen_Test\obj\Debug\Screen_Test.csproj.CoreCompileInputs.cache
+F:\Graduation Project\Screen_Test\Screen_Test\bin\Debug\Screen_Test.exe.config
+F:\Graduation Project\Screen_Test\Screen_Test\bin\Debug\Screen_Test.exe
+F:\Graduation Project\Screen_Test\Screen_Test\bin\Debug\Screen_Test.pdb
+F:\Graduation Project\Screen_Test\Screen_Test\obj\Debug\Screen_Test.exe
+F:\Graduation Project\Screen_Test\Screen_Test\obj\Debug\Screen_Test.pdb
+F:\Graduation Project\Screen_Test\Screen_Test\obj\Debug\Screen_Test.Form2.resources

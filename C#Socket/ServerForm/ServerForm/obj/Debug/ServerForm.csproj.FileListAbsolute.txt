@@ -1,0 +1,44 @@
+D:\C#初学代码\ServerForm\ServerForm\obj\Debug\ServerForm.csprojResolveAssemblyReference.cache
+D:\C#初学代码\ServerForm\ServerForm\obj\Debug\ServerForm.Form1.resources
+D:\C#初学代码\ServerForm\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+D:\C#初学代码\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.Cache
+D:\C#初学代码\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+D:\C#初学代码\ServerForm\ServerForm\bin\Debug\ServerForm.exe.config
+D:\C#初学代码\ServerForm\ServerForm\bin\Debug\ServerForm.exe
+D:\C#初学代码\ServerForm\ServerForm\bin\Debug\ServerForm.pdb
+D:\C#初学代码\ServerForm\ServerForm\obj\Debug\ServerForm.exe
+D:\C#初学代码\ServerForm\ServerForm\obj\Debug\ServerForm.pdb
+D:\C#初学代码\ServerForm\ServerForm\obj\Debug\ServerForm.Form2.resources
+E:\5120154230C# Code\ServerForm\ServerForm\obj\Debug\ServerForm.exe
+E:\5120154230C# Code\ServerForm\ServerForm\obj\Debug\ServerForm.pdb
+E:\5120154230C# Code\ServerForm\ServerForm\bin\Debug\ServerForm.exe.config
+E:\5120154230C# Code\ServerForm\ServerForm\bin\Debug\ServerForm.exe
+E:\5120154230C# Code\ServerForm\ServerForm\bin\Debug\ServerForm.pdb
+E:\5120154230C# Code\ServerForm\ServerForm\obj\Debug\ServerForm.csprojResolveAssemblyReference.cache
+E:\5120154230C# Code\ServerForm\ServerForm\obj\Debug\ServerForm.Form1.resources
+E:\5120154230C# Code\ServerForm\ServerForm\obj\Debug\ServerForm.Form2.resources
+E:\5120154230C# Code\ServerForm\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+E:\5120154230C# Code\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+E:\5120154230C# Code\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\bin\Debug\ServerForm.exe.config
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\bin\Debug\ServerForm.exe
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\bin\Debug\ServerForm.pdb
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\obj\Debug\ServerForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\obj\Debug\ServerForm.Form1.resources
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\obj\Debug\ServerForm.Form2.resources
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\obj\Debug\ServerForm.exe
+C:\Users\Administrator\Desktop\ServerForm\ServerForm\obj\Debug\ServerForm.pdb
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\bin\Debug\ServerForm.exe.config
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\bin\Debug\ServerForm.exe
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\bin\Debug\ServerForm.pdb
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\obj\Debug\ServerForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\obj\Debug\ServerForm.Form1.resources
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\obj\Debug\ServerForm.Form2.resources
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\obj\Debug\ServerForm.exe
+C:\Users\Administrator\Desktop\C#Socket\ServerForm\ServerForm\obj\Debug\ServerForm.pdb

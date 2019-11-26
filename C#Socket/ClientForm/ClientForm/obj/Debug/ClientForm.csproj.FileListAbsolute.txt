@@ -1,0 +1,47 @@
+D:\C#初学代码\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+D:\C#初学代码\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+D:\C#初学代码\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+D:\C#初学代码\ClientForm\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+D:\C#初学代码\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+D:\C#初学代码\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+D:\C#初学代码\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+D:\C#初学代码\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+D:\C#初学代码\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+D:\C#初学代码\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
+D:\C#初学代码\ClientForm\ClientForm\obj\Debug\ClientForm.Form2.resources
+E:\5120154230C# Code\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+E:\5120154230C# Code\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+E:\5120154230C# Code\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+E:\5120154230C# Code\ClientForm\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+E:\5120154230C# Code\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+E:\5120154230C# Code\ClientForm\ClientForm\obj\Debug\ClientForm.Form2.resources
+E:\5120154230C# Code\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+E:\5120154230C# Code\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+E:\5120154230C# Code\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+E:\5120154230C# Code\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+E:\5120154230C# Code\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\obj\Debug\ClientForm.Form2.resources
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\Administrator\Desktop\ClientForm\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\obj\Debug\ClientForm.Form1.resources
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\obj\Debug\ClientForm.Form2.resources
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\Administrator\Desktop\C#Socket\ClientForm\ClientForm\obj\Debug\ClientForm.pdb

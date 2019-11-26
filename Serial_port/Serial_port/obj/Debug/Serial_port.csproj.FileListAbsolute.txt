@@ -1,0 +1,7 @@
+E:\Graduation Project\Serial_port\Serial_port\bin\Debug\Serial_port.exe.config
+E:\Graduation Project\Serial_port\Serial_port\bin\Debug\Serial_port.exe
+E:\Graduation Project\Serial_port\Serial_port\bin\Debug\Serial_port.pdb
+E:\Graduation Project\Serial_port\Serial_port\obj\Debug\Serial_port.csprojResolveAssemblyReference.cache
+E:\Graduation Project\Serial_port\Serial_port\obj\Debug\Serial_port.csproj.CoreCompileInputs.cache
+E:\Graduation Project\Serial_port\Serial_port\obj\Debug\Serial_port.exe
+E:\Graduation Project\Serial_port\Serial_port\obj\Debug\Serial_port.pdb

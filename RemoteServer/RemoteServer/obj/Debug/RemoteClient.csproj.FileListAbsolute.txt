@@ -1,0 +1,17 @@
+F:\Graduation Project\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe.config
+F:\Graduation Project\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe
+F:\Graduation Project\RemoteClient\RemoteClient\bin\Debug\RemoteClient.pdb
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.csprojAssemblyReference.cache
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Login.resources
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.cache
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.exe
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.pdb
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Regist.resources
+F:\Graduation Project\RemoteClient\RemoteClient\bin\Debug\MySql.Data.dll
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.csproj.CopyComplete
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Socket_Server.resources
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.ScheDule.resources
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Status.resources
+F:\Graduation Project\RemoteClient\RemoteClient\obj\Debug\RemoteClient.Log_Query.resources

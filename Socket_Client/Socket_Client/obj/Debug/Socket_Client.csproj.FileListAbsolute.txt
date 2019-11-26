@@ -1,0 +1,10 @@
+E:\Graduation Project\Socket_Client\Socket_Client\bin\Debug\Socket_Client.exe.config
+E:\Graduation Project\Socket_Client\Socket_Client\bin\Debug\Socket_Client.exe
+E:\Graduation Project\Socket_Client\Socket_Client\bin\Debug\Socket_Client.pdb
+E:\Graduation Project\Socket_Client\Socket_Client\obj\Debug\Socket_Client.csprojResolveAssemblyReference.cache
+E:\Graduation Project\Socket_Client\Socket_Client\obj\Debug\Socket_Client.Form1.resources
+E:\Graduation Project\Socket_Client\Socket_Client\obj\Debug\Socket_Client.Properties.Resources.resources
+E:\Graduation Project\Socket_Client\Socket_Client\obj\Debug\Socket_Client.csproj.GenerateResource.cache
+E:\Graduation Project\Socket_Client\Socket_Client\obj\Debug\Socket_Client.csproj.CoreCompileInputs.cache
+E:\Graduation Project\Socket_Client\Socket_Client\obj\Debug\Socket_Client.exe
+E:\Graduation Project\Socket_Client\Socket_Client\obj\Debug\Socket_Client.pdb

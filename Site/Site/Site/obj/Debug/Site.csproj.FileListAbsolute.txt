@@ -1,0 +1,11 @@
+F:\Graduation Project\Site\Site\Site\bin\Debug\Site.exe.config
+F:\Graduation Project\Site\Site\Site\bin\Debug\Site.exe
+F:\Graduation Project\Site\Site\Site\bin\Debug\Site.pdb
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.csprojAssemblyReference.cache
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.Site.resources
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.Properties.Resources.resources
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.csproj.GenerateResource.cache
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.csproj.CoreCompileInputs.cache
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.exe
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.pdb
+F:\Graduation Project\Site\Site\Site\obj\Debug\Site.Serial_Port.resources

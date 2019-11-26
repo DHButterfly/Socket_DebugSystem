@@ -1,0 +1,10 @@
+F:\Graduation Project\Screen\Screen\bin\Debug\Screen.exe.config
+F:\Graduation Project\Screen\Screen\bin\Debug\Screen.exe
+F:\Graduation Project\Screen\Screen\bin\Debug\Screen.pdb
+F:\Graduation Project\Screen\Screen\obj\Debug\Screen.csprojAssemblyReference.cache
+F:\Graduation Project\Screen\Screen\obj\Debug\Screen.Form1.resources
+F:\Graduation Project\Screen\Screen\obj\Debug\Screen.Properties.Resources.resources
+F:\Graduation Project\Screen\Screen\obj\Debug\Screen.csproj.GenerateResource.cache
+F:\Graduation Project\Screen\Screen\obj\Debug\Screen.csproj.CoreCompileInputs.cache
+F:\Graduation Project\Screen\Screen\obj\Debug\Screen.exe
+F:\Graduation Project\Screen\Screen\obj\Debug\Screen.pdb
